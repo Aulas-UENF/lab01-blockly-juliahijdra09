@@ -46,13 +46,11 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+>Com a prática do jogo, fui percebendo os comandos, a forma de fazer os desenhos e a repetição de alguns exercícios. 
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+A)move 5 vezes para frente e gira 72 graus para a direita.
+B)gira 144 graus. 
+C)usei meus conhecimentos prévios sobre os angulos para analisar o movimento no jogo, usando a lógica de espaço também.
   
-**B)** Escreva aqui...
-  
-**C)** Escreva aqui...
-
 ---
